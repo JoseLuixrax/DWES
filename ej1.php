@@ -1,5 +1,6 @@
 <?php
 /**
+ * Ud3 EJ1
  * @author Jose Luis Pérez Lara
  * 1. Almacena tres números en variables y escribirlos en pantalla de manera ordenada.
  */
@@ -29,3 +30,4 @@ if ($num1 > $num2 && $num1 > $num3) {
         echo "$num2, $num1"
     }
 }
+echo '</br>Enlace a <a href="https://github.com/JoseLuixrax/DWESUd3/blob/main/ej1.php" target="_blank">GitHub</a>';
