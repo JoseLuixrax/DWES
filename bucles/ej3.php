@@ -3,10 +3,12 @@
  * @author Jose Luis Pérez Lara
  * Tablas de multiplicar del 1 al 10. Aplicar estilos en filas/columnas
  */
+$n = 10;
+$m = 10;
 echo '<table border="1">';
-for ($i=1; $i <= 10; $i++) { 
+for ($i=1; $i <= $n; $i++) { 
     echo '<tr>';
-    for ($j=1; $j <= 10; $j++) { 
+    for ($j=1; $j <= $m; $j++) { 
         echo '<td>';
         echo $i * $j;
         echo '</td>';
