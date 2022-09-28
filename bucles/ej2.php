@@ -10,4 +10,4 @@ for ($i=0; $i <= 6; $i++) {
     }
 }
 echo "La suma de los 3 primeros números pares es $sum";
-echo '</br>Enlace a <a href="https://github.com/JoseLuixrax/DWESUd3/blob/main/bucles/ej1.php" target="_blank">GitHub</a>';
+echo '</br>Enlace a <a href="https://github.com/JoseLuixrax/DWESUd3/blob/main/bucles/ej2.php" target="_blank">GitHub</a>';
