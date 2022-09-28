@@ -8,7 +8,7 @@ $m = 10;
 echo '<table border="1">';
 // Cabeceras
 echo '<th bgcolor="#0000FF">';
-echo '1';
+echo '*';
 echo '</th>';
 for ($i=1; $i <= $n; $i++){
     echo '<td bgcolor="#0000FF">';
