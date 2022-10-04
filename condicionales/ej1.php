@@ -27,7 +27,7 @@ if ($num1 > $num2 && $num1 > $num3) {
     if ($num1 > $num2) {
         echo "$num1, $num2";
     } else{
-        echo "$num2, $num1"
+        echo "$num2, $num1";
     }
 }
 echo '</br>Enlace a <a href="https://github.com/JoseLuixrax/DWESUd3/blob/main/ej1.php" target="_blank">GitHub</a>';
